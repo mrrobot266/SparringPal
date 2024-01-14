@@ -48,6 +48,8 @@ SparringPal is an IOS app built using Swift. It integrates Firebase for persiste
 
 SparringPal is an innovative new way to connect with other like-minded boxers in your area. I wanted to build a easy solution to finding other boxers to spar with and practice the sport of boxing. Everybody should be able to enjoy boxing and have access to a local community of boxers. Think of it like the Tinder of boxing, create a profile and match with somebody to spar with. 👊
 
+Here is a link to a Pitch Deck Presentation I created based off this app. <a href="https://www.canva.com/design/DAFssz6umFg/Fs4QfOn-_yWTGCh1s592kw/edit?utm_content=DAFssz6umFg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">View Presentation</a>
+
 ## Tools and Features
 
 * Create a Login and Profile.
