@@ -31,11 +31,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#creating-a-project">Creating a Project</a></li>
-        <li><a href="#developing">Developing</a></li>
-        <li><a href="#building">Building</a></li>
-      </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
